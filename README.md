@@ -39,36 +39,9 @@ The project explores various machine learning classification algorithms to find 
 
 The dataset used in this project contains historical AQI data from 26 cities across India, spanning from 2015 to 2020. The data includes the following cities:
 
-- Ahmedabad
-- Delhi
-- Mumbai
-- Bengaluru
-- Lucknow
-- Chennai
-- Hyderabad
-- Patna
-- Gurugram
-- Visakhapatnam
-- Amritsar
-- Jorapokhar
-- Jaipur
-- Thiruvananthapuram
-- Amaravati
-- Brajrajnagar
-- Talcher
-- Kolkata
-- Guwahati
-- Coimbatore
-- Shillong
-- Chandigarh
-- Bhopal
-- Kochi
-- Ernakulam
-- Aizawl
+- Ahmedabad, Delhi, Mumbai, Bengaluru, Chennai, Gurugram, Visakhapatnam, Jaipur, Thiruvananthapuram,Amaravati, Brajrajnagar, Talcher, Kolkata, Guwahati, Coimbatore, Shillong, Chandigarh, Bhopal, Kochi, Ernakulam, Aizawl
 
-### Data Sources
 
-The AQI data is collected from various public sources, including government and environmental agencies.
 
 ## How to Run
 
