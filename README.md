@@ -1,4 +1,4 @@
-# AQI Prediction Using Classification Algorithms
+![image](https://github.com/user-attachments/assets/c2bc58de-215c-413c-a1ad-ee6e5b32a3b9)# AQI Prediction Using Classification Algorithms
 
 ## Description
 
@@ -8,7 +8,7 @@ This project aims to predict the Air Quality Index (AQI) using various classific
 
 - **Data Collection:** Utilizes a comprehensive dataset containing air quality measurements from 26 cities in India, covering the period from January 2015 to July 2020.
 - **Data Preprocessing:** Includes handling missing values, normalizing data, and calculating subindices for each pollutant using established AQI guidelines.
-- **Model Development:** Implements and trains a Decision Tree classifier to predict the AQI based on the subindices of the pollutants.
+- **Model Development:** The proposed system involves the development of a machine learning-based solution that employs classification algorithms to enhance air quality prediction.**
 - **Prediction Interface:** Provides a user-friendly interface built with Gradio for inputting pollutant levels and receiving real-time AQI predictions.
 - **Visualizations:** Offers visual analysis through bar plots and grouped data to illustrate the distribution and levels of different pollutants across various cities.
 
