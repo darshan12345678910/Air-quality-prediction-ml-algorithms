@@ -26,3 +26,4 @@ This project aims to predict the Air Quality Index (AQI) using various classific
    ```bash
    git clone https://github.com/darshan12345678910/Air-quality-prediction-ml-algorithms.git
 
+2. Install the necessary libraries   
